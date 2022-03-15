@@ -7,5 +7,4 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     Lawnchair \
     LawnchairOverlay \
-    Lawnicons \
     recentsComponentOverlay
