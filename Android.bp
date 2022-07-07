@@ -1,10 +1,8 @@
 android_app_import {
     name: "Lawnchair",
     apk: "priv-app/Lawnchair/Lawnchair.apk",
+    enforce_uses_libs: false,
     presigned: true,
-    dex_preopt: {
-        enabled: false,
-    },
     privileged: true,
     system_ext_specific: true,
 }
